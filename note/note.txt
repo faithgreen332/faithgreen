@@ -1,0 +1,3 @@
+cron statement: http://cron.qqe2.com
+springboot异步任务使用场景：
+    1.发送短信 2.发送邮件 3.App消息推送 4.节省运维凌晨发布任务事件提供效率
